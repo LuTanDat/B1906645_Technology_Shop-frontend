@@ -1,0 +1,128 @@
+.app__cantainer{
+    /* max-width: 1200px; */
+    padding-bottom: 16px;
+    background-color: #fff;
+}
+
+.cart-page-title{
+    font-size: 22px;
+    font-weight: 500;
+    color: #FB5831;
+    margin-left: 16px;
+    padding-left: 16px;
+    text-transform: uppercase;
+    border-left: 2px solid #FB5831;
+    cursor: pointer;
+}
+
+.back{
+    font-size: 20px;
+    color: rgba(0, 0, 0, .7);
+    margin-left: 32px;
+    text-decoration: none;
+    display: block;
+    padding-top: 16px;
+    display: inline-block;
+}
+
+.back:hover{
+    color: #FB5831;
+}
+
+.main-cart-container .header__cart-heading{
+    margin-top: 16px;
+}
+
+.main-cart-container{
+    width: 80%;
+    margin: auto;
+}
+
+.main-cart-container .header__cart-list-item{
+    max-height: unset !important;
+}
+
+.main-cart-container a.shopnow{
+    display: inline-block;
+    padding: 0px 32px;
+    background-color: #FB5831;
+    text-decoration: none;
+    color: #fff;
+}
+
+.main-cart-container a.shopnow h3{
+    padding-bottom: 0;
+}
+
+.main-cart-container a.shopnow:hover{
+    color: #FB5831;
+    background-color: #fac9bc;
+}
+
+.main-nocart-containert{
+    text-align: center;
+}
+
+.main-cart-container .header__cart-img{
+    height: 100px;
+    width: 100px;
+}
+
+.main-cart-container .header__cart-item-price-wrap{
+    display: none !important;
+}
+
+.main-cart-container .main-cart-item-option{
+    display: block !important;
+}
+
+.main-cart-item-option .option{
+    display: inline-block;
+    min-width: 64px;
+}
+
+.main-cart-item-option .option+span{
+    display: inline-block;
+    min-width: 100px;
+    text-align: right;
+}
+
+.main-cart-container .pay-btn{
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 18px;
+    padding: 12px 28px;
+    background-color: #FB5831;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 2px;
+    text-decoration: none
+}
+
+.main-cart-container .total-container{
+    margin-top: 32px;
+}
+
+.main-cart-container .total-title{
+    display: inline-block;
+    padding: 16px 32px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(23, 12, 59);
+    max-height: 48px;
+}
+
+.main-cart-container .total-num{
+    display: inline-block;
+    padding: 16px 32px;
+    font-size: 20px;
+    color: #FB5831;
+    border: 1px solid rgb(15, 8, 40);
+    transform: translateY(2px);
+    max-height: 48px;
+}
+
+
+.main-cart-container .pay-btn:active{
+    background-color: #f1927b;
+}

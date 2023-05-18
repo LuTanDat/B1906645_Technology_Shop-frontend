@@ -1,0 +1,20 @@
+.checkbox label{
+    max-width: 300px;
+    font-size: 14px;
+}
+
+.checkbox a{
+    color: inherit;
+}
+
+.icon1{
+    margin-left: 10px;
+}
+.illustration-text{
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container{
+    margin-left: 0px;
+}
