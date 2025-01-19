@@ -1,5 +1,4 @@
-## WEBSITE THƯƠNG MẠI ĐIỆN TỬ BÁN ĐỒ DÙNG CÔNG NGHỆ
-## Dental_Clinic-frontend
+## WEBSITE THƯƠNG MẠI ĐIỆN TỬ BÁN ĐỒ DÙNG CÔNG NGHỆ (Niên luận ngành)
 
 This template should help get you started developing with Vue 3 in Vite.
 
